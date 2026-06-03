@@ -1,0 +1,10 @@
+# Mac files
+.DS_Store
+._*
+
+# VS Code
+.vscode/
+
+# Temp files
+*.tmp
+*~
